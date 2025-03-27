@@ -1,0 +1,22 @@
+.quadrado{
+    display: block;
+    height: 350px;
+    width: 300px;
+    margin-left: 480px;
+    margin-top: 120px;
+}
+.imagem{
+    height: 300px;
+    width: 300px;
+    align-items:center;
+}
+.ligar{
+  margin-left: 40px;
+  width: 100px;
+  height: 28px;
+
+}
+.desligar{
+    width: 100px; 
+    height: 28px;
+}
