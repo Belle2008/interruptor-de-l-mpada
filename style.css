@@ -10,13 +10,13 @@
     width: 300px;
     align-items:center;
 }
-.ligar{
+#Ligar{
   margin-left: 40px;
   width: 100px;
   height: 28px;
 
 }
-.desligar{
+#Desligar{
     width: 100px; 
     height: 28px;
 }
